@@ -32,5 +32,6 @@ Automatically calculate and display habit streaks.
 Dashboard
 View a summary of habits, daily progress, and streak statistics.
 
-Focus Timer (Pomodoro) (optional enhancement)
-A built-in focus timer to help users concentrate on tasks.
+Pomodoro Focus Timer
+Start, pause, reset, and complete Pomodoro sessions (e.g., 25/5).
+
