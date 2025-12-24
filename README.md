@@ -17,7 +17,7 @@ From an academic perspective, the project aims to demonstrate the full software 
 
 Core Features
 
-User Authentication
+- Authentication module
 Register, login, and logout functionality with secure access.
 
 Habit Management
